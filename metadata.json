@@ -1,0 +1,5 @@
+{
+  "name": "AI Chat-to-Code",
+  "description": "Extract functional project source code from chat screenshots or .ZIP archives. Features modular recovery, dependency mapping, and swarm intelligence.",
+  "requestFramePermissions": []
+}
